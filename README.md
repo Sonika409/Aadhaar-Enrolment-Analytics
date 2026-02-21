@@ -5,11 +5,12 @@ An interactive Power BI dashboard designed to analyze Aadhaar enrollment trends 
 
 ## 🛠️ Tech Stack
 The dashboard was built using the following tools and technologies:
-*📊 Power BI Desktop – Used for creating interactive dashboards and visualizations
-*🐍 Python (Pandas, NumPy) – Used for data cleaning, preprocessing, and transformation
-*📂 Microsoft Excel – Initial data source and basic data handling
-*🧠 DAX (Data Analysis Expressions) – Used for creating calculated measures, KPIs, and logic inside Power BI
-*🔄 Power Query – Data transformation and loading into Power BI
+</> Markdown
+📊 Power BI Desktop – Used for creating interactive dashboards and visualizations
+🐍 Python (Pandas, NumPy) – Used for data cleaning, preprocessing, and transformation
+📂 Microsoft Excel – Initial data source and basic data handling
+🧠 DAX (Data Analysis Expressions) – Used for creating calculated measures, KPIs, and logic inside Power BI
+🔄 Power Query – Data transformation and loading into Power BI
 
 ## 📂 Data Source
 *Source: UIDAI Aadhaar-enrolment dataset (Hackathon-based dataset)
