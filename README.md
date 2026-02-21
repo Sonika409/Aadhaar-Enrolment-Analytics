@@ -13,12 +13,12 @@ The dashboard was built using the following tools and technologies:
 🔄 Power Query – Data transformation and loading into Power BI
 
 ## 📂 Data Source
-*Source: UIDAI Aadhaar-enrolment dataset (Hackathon-based dataset)
-*The dataset includes:
-  *State-wise Aadhaar enrollment data
-  *Monthly enrollment trends
-  *Age-group segmentation (0–5, 5–17, 18+)
-  *Enrollment counts across different regions of India
+* Source: UIDAI Aadhaar-enrolment dataset (Hackathon-based dataset)
+* The dataset includes:
+  * State-wise Aadhaar enrollment data
+  * Monthly enrollment trends
+  * Age-group segmentation (0–5, 5–17, 18+)
+  * Enrollment counts across different regions of India
 
 ## 🚀 Features / Highlights
 ### 🔹 Business Problem
