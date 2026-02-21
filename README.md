@@ -73,4 +73,4 @@ Majority enrollments are from age group 0–5, indicating strong adoption for ea
 Identifies underperforming regions where awareness campaigns can be increased.
 
 ## Demo
-https://github.com/Sonika409/Aadhaar-Enrolment-Analytics/blob/main/Snapshot%20of%20the%20Dashboard.JPG
+![Dashboard Preview](https://github.com/Sonika409/Aadhaar-Enrolment-Analytics/blob/main/Snapshot%20of%20the%20Dashboard.JPG)
